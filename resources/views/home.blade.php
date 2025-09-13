@@ -70,12 +70,12 @@
 
     <!-- Navegação estilo anos 2000 -->
     <div class="nav-btns mb-4">
-      <a href="#" class="btn">Home</a>
-      <a href="#" class="btn">Imprensa</a>
-      <a href="#" class="btn">Merch</a>
-      <a href="#" class="btn">Apoie</a>
-      <a href="#" class="btn">Eventos</a>
-      <a href="#" class="btn">Contato</a>
+      <a href="/" class="btn">Home</a>
+      <a href="imprensa" class="btn">Imprensa</a>
+      <a href="merch" class="btn">Merch</a>
+      <a href="apoie" class="btn">Apoie</a>
+      <a href="eventos" class="btn">Eventos</a>
+      <a href="contato" class="btn">Contato</a>
     </div>
   </div>
 
